@@ -1,0 +1,23 @@
+.logo-flex{
+   display: flex;
+   column-gap: 5px;
+   position: relative;
+}
+.items-center__logo{
+   max-width: 42px;
+   max-height: 42px;
+}
+.items-center__img{
+   max-width: 100%;
+}
+.text-pink-600{
+  padding-left: 46px;
+}
+.items-center__logo--footer{
+   position: absolute;
+   top: 6px;
+   left: 0;
+}
+.logo-flex--pading{
+   margin-right: 80px;
+}
